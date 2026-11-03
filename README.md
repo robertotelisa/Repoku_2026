@@ -1,2 +1,2 @@
 # Repoku_2026
-Tugas Manpro
+Ini adalah Tugas Manpro(Manajemen Proyek) mengnai github
