@@ -1,1 +1,2 @@
 Penambahan tambahan baris dari GitHub untuk file1
+Penambahan tambahan baris dari repositori lokal (Tugas_Git) untuk file1
